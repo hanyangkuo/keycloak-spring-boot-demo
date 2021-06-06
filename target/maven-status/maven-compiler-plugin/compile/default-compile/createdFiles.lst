@@ -1,0 +1,6 @@
+keycloak\SpringBoot.class
+keycloak\WebController.class
+keycloak\Customer.class
+keycloak\CustomerDAO.class
+keycloak\CustomUserAttrController.class
+keycloak\SecurityConfig.class
